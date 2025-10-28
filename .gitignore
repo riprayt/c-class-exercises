@@ -1,0 +1,9 @@
+.vscode/
+a.out
+*.out
+*.exe
+*.o
+*.obj
+*.so
+*.dylib
+roll-a-dice

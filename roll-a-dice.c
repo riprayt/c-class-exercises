@@ -6,7 +6,7 @@ int dice(int times);
 
 int main(){
 	int rollTimes = 2;
-	printf("%d times roll: %d", rollTimes, dice(rollTimes));
+	printf("%d times roll: %d\n", rollTimes, dice(rollTimes));
 	
 	return 0;
 }
